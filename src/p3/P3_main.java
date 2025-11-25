@@ -47,5 +47,9 @@ public class P3_main {
 		
 		}
 	}*/
+	//array mit den beträgen
+	//mit max und max2 arbeiten, max2 bekommt wert von max wenn... und prüfen ob wert zwischen max und max2
+	//prüfen ob max2=max -> -1 ausgeben
+	//dann schauen ob max2 oder der betrag ausgegeben wird, indem wir schauen ob max2 im array vorhanden ist
 
 }
