@@ -3,7 +3,7 @@ package h2;
 public class H2_main {
 
 	public static void main(String[] args) {
-		int[] a = {1,2,3};
+		/*int[] a = {1,2,3};
 		int[] b = {1,2,4};
 		int[] c = {1,3,2};
 		int[] d = {1,2};
@@ -14,7 +14,7 @@ public class H2_main {
 		System.out.println(compareArrays(a,e));
 		System.out.println(compareArrays(e,a));
 		System.out.println(compareArrays(d,e));
-		System.out.println(compareArrays(a,a));
+		System.out.println(compareArrays(a,a));*/
 
 	}
 

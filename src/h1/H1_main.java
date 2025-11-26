@@ -3,7 +3,7 @@ package h1;
 public class H1_main {
 
 	public static void main(String[] args) {
-		int[] a = {1,2,3,4};
+		/*int[] a = {1,2,3,4};
 		int[] b={4,3,2,1};
 		int[] c={2,4,6};
 		int[] d={6,4,9};
@@ -14,7 +14,7 @@ public class H1_main {
 		System.out.println(isMirrorArray(a,d));
 		System.out.println(isMirrorArray(c,d));
 		System.out.println(isMirrorArray(b,c));
-		System.out.println(isMirrorArray(d,b));
+		System.out.println(isMirrorArray(d,b));*/
 
 
 

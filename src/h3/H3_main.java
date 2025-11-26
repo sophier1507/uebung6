@@ -3,14 +3,14 @@ package h3;
 public class H3_main {
 
 	public static void main(String[] args) {
-		int[] a={1,2,3}, b={1,2,4}, c={1,3,2}, d={1,2}, e={1,2,3},  f={1,1,2};
+		/*int[] a={1,2,3}, b={1,2,4}, c={1,3,2}, d={1,2}, e={1,2,3},  f={1,1,2};
 		System.out.println(compareArraysVal(a,b));
 		System.out.println(compareArraysVal(a,c));
 		System.out.println(compareArraysVal(a,d));
 		System.out.println(compareArraysVal(a,e));
 		System.out.println(compareArraysVal(b,d));
 		System.out.println(compareArraysVal(c,e));
-		System.out.println(compareArraysVal(f,c));
+		System.out.println(compareArraysVal(f,c));*/
 
 
 
