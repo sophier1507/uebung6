@@ -16,9 +16,6 @@ public class H2_main {
 		System.out.println(compareArrays(d,e));
 		System.out.println(compareArrays(a,a));
 
-
-
-
 	}
 
 	public static boolean compareArrays(int[] a, int[] b) {
